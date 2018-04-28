@@ -33,12 +33,12 @@ namespace SimpleHttpServer.App
                         };
                      }
                 }, 
-                //new Route {   
-                //    Name = "FileSystem Static Handler",
-                //    UrlRegex = @"^/Static/(.*)$",
-                //    Method = "GET",
-                //    Callable = new FileSystemRouteHandler() { BasePath = @"C:\Tmp", ShowDirectories=true }.Handle,
-                //},
+               new Route {   
+                   Name = "FileSystem Static Handler",
+                    UrlRegex = @"^/Static/(.*)$",
+                    Method = "GET",
+                    Callable = new FileSystemRouteHandler() { BasePath = @"C:\OS_SERVER", ShowDirectories=true }.Handle,
+                },
             };
 
             HttpServer httpServer = new HttpServer(8081, route_config);

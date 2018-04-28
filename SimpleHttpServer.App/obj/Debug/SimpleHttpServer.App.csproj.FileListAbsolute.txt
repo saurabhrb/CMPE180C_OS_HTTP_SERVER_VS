@@ -12,3 +12,17 @@ C:\Users\saura\Desktop\SimpleHttpServer-master\SimpleHttpServer.App\obj\Debug\Si
 C:\Users\saura\Desktop\SimpleHttpServer-master\SimpleHttpServer.App\obj\Debug\SimpleHttpServer.App.csproj.CopyComplete
 C:\Users\saura\Desktop\SimpleHttpServer-master\SimpleHttpServer.App\obj\Debug\SimpleHttpServer.App.exe
 C:\Users\saura\Desktop\SimpleHttpServer-master\SimpleHttpServer.App\obj\Debug\SimpleHttpServer.App.pdb
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\Resources\Pages\404.html
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\Resources\Pages\500.html
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\SimpleHttpServer.App.exe.config
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\SimpleHttpServer.App.exe
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\SimpleHttpServer.App.pdb
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\log4net.dll
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\SimpleHttpServer.dll
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\SimpleHttpServer.pdb
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\SimpleHttpServer.dll.config
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\bin\Debug\log4net.xml
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\obj\Debug\SimpleHttpServer.App.csproj.CoreCompileInputs.cache
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\obj\Debug\SimpleHttpServer.App.csproj.CopyComplete
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\obj\Debug\SimpleHttpServer.App.exe
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer.App\obj\Debug\SimpleHttpServer.App.pdb
