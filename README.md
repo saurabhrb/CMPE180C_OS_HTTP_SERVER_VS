@@ -1,2 +1,4 @@
 # OS_HTTP_SERVER_VS
 HTTP SERVER C++ using VS 2017
+
+Copy "OS_SERVER" into D:\
