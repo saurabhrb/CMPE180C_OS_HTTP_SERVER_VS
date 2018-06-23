@@ -20,3 +20,4 @@ D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer\obj\Debug\SimpleHttpServer.cspr
 D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer\obj\Debug\SimpleHttpServer.csproj.CopyComplete
 D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
 D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+D:\MY Githubs\OS_HTTP_SERVER_VS\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache

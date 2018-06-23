@@ -1,0 +1,7 @@
+File: "D:\OS_SERVER\Static\os.txt"
+Contents:
+
+OPERATING SYSTEM CMPE180-C
+Project:Operating System
+ID : CMPE-180C
+Team : 19
